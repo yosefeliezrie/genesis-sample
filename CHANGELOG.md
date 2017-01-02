@@ -1,6 +1,11 @@
 # Genesis Sample Theme Changlog
 
+## [2.4.3]  - 2017-1-2
+* Update Template Name to Match Beaver Builder
+* Update Changelog
+
 ## [2.4.2]  - 2016-11-28
+* Update Template Name to Match
 * Update theme to align with 2.4.2
 * Remove Old styles
 * Add Beaver Builder full page template, template_beaver.php
