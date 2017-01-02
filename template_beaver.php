@@ -1,7 +1,8 @@
 
 <?php
-// Template Name: Full Width Page
+// Template Name: Full Width Page - Beaver Builder Template
 // Based on https://sridharkatakam.com/full-width-page-template-in-genesis-for-beaver-builder/
+
 add_filter( 'body_class', 'genesis_sample_beaver_body_class' );
 /**
  * Adds a css class to the body element
