@@ -6,9 +6,9 @@
  * Please do all modifications in the form of a child theme.
  *
  * @package Genesis\Templates
- * @author  StudioPress
+ * @author  Yosef Eliezrie
  * @license GPL-2.0+
- * @link    http://my.studiopress.com/themes/genesis/
+ * @link    https://github.com/yosefeliezrie/genesis-sample
  */
 
 //* Template Name: Sitemap

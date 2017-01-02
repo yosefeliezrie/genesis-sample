@@ -1,11 +1,6 @@
-# Details
-
-Blog post: https://sridharkatakam.com/genesis-starter-child-theme
-
-
 # Genesis Sample Theme
 
-Github original project link: https://github.com/copyblogger/genesis-sample
+Genesis Sample theme base on https://github.com/copyblogger/genesis-sample
 
 
 ## Installation Instructions
@@ -19,15 +14,10 @@ Github original project link: https://github.com/copyblogger/genesis-sample
 ## Theme Support
 
 This child theme theme is provided as is - without any support.
+If you see an problem or have a suggestion to improve on our work please raise an issue on github here https://github.com/yosefeliezrie/genesis-sample/issues
 
 Please visit http://my.studiopress.com/help/ for parent Genesis theme related support.
 
-### Change Log
+## Change Log
 
-May 22, 2016
-
-Update based on Genesis Sample 2.2.3.
-
-September 07, 2015
-
-Now the theme is based on Genesis Sample 2.2.0. Accessibility theme support for navigation menus has been removed to ensure that mobile responsive nav menus work properly.
+See CHANGELOG.md

@@ -1,0 +1,12 @@
+{
+    "name": "yosefeliezrie/genesis-sample",
+    "description": "Genesis Starter Theme based on genesis sample theme and work of sridhar katakam",
+    "authors": [
+        {
+            "name": "Yosef Eliezrie",
+            "email": "yosefeliezrie@gmail.com"
+        }
+    ],
+    "issues": "https://github.com/yosefeliezrie/Genesis-Sample/issues",
+    "require": {}
+}

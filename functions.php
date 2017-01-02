@@ -5,12 +5,12 @@
  * This file adds functions to the Genesis Sample Theme.
  *
  * @package Genesis Sample
- * @author  StudioPress
+ * @author  Yosef Eliezrie
  * @license GPL-2.0+
- * @link    http://www.studiopress.com/
+ * @link    https://github.com/yosefeliezrie/genesis-sample
  */
 
-//* Start the engine
+///* Start the engine
 include_once( get_template_directory() . '/lib/init.php' );
 
 //* Setup Theme
@@ -19,16 +19,10 @@ include_once( get_stylesheet_directory() . '/lib/theme-defaults.php' );
 //* Set Localization (do not remove)
 load_child_theme_textdomain( 'genesis-sample', apply_filters( 'child_theme_textdomain', get_stylesheet_directory() . '/languages', 'genesis-sample' ) );
 
-//* Add Image upload and Color select to WordPress Theme Customizer
-require_once( get_stylesheet_directory() . '/lib/customize.php' );
-
-//* Include Customizer CSS
-include_once( get_stylesheet_directory() . '/lib/output.php' );
-
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'Genesis Sample' );
 define( 'CHILD_THEME_URL', 'http://www.studiopress.com/' );
-define( 'CHILD_THEME_VERSION', '2.2.3' );
+define( 'CHILD_THEME_VERSION', '2.4.2' );
 
 //* Enqueue Scripts and Styles
 add_action( 'wp_enqueue_scripts', 'genesis_sample_enqueue_scripts_styles' );
