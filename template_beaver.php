@@ -1,7 +1,16 @@
 
 <?php
-// Template Name: Full Width Page - Beaver Builder Template
-// Based on https://sridharkatakam.com/full-width-page-template-in-genesis-for-beaver-builder/
+
+/**
+ *
+ * @package Genesis\Templates
+ * @author  Yosef Eliezrie
+ * @license GPL-2.0+
+ * @link    https://github.com/yosefeliezrie/genesis-sample
+ * Template Name: Full Width Page - Beaver Builder Template
+ * Based on https://sridharkatakam.com/full-width-page-template-in-genesis-for-beaver-builder/
+ */
+
 
 add_filter( 'body_class', 'genesis_sample_beaver_body_class' );
 /**
